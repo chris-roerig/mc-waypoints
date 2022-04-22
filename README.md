@@ -21,4 +21,4 @@ Caveside river farm with deep mineshaft
 
 629, 64, 1564
 
-![alt text](https://github.com/chris-roerig/mc-waypoints/blob/main/629-64-1564.png.png?raw=true)
+![alt text](https://github.com/chris-roerig/mc-waypoints/blob/main/629-64-1564.png?raw=true)
